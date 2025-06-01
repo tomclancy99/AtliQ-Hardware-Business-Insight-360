@@ -31,6 +31,22 @@ India leads with $210.67M net sales and 25.57% RC.
 Gross Margin: At 36.49% showing slight decline of -1.65%.
 Net Profit: Currently at -6.63% with significant drop of -676.38%.
 
+## 📝Business Related Terms
+- Gross price
+- Pre-invoice deductions
+- Post-Invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGC - cost of goods sold
+- YTD - Year to Date
+- YTG - Year to Go
+- Direct
+- Retailer
+- Distributors
+- Consumer
+
 ## ⚡ Summary of Insights:
 Profitability Focus: Cost control is critical as manufacturing and freight costs rise, impacting profit margins.
 Regional Strategy: India and the USA need targeted efforts to address declining net profits; LATAM and EU show growth potential.
