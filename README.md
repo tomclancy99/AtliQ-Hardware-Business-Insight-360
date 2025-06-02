@@ -1,5 +1,6 @@
 # AtliQ-Hardware-Business-Insight-360
-AtliQ, a growing global computer hardware company, faced challenges making informed decisions, relying heavily on surveys and intuition. Their goal is to adopt data-driven strategies to drive better business outcomes.
+## Project Overview
+AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain. I worked on this project by following the Codebasics PowerBi Course, Link to the course is
 
 ## 📈 Process and Tools I Used:
 Tools: Power BI and dataset provided by the AtliQ Hardware.
